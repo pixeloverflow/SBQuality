@@ -1,0 +1,5 @@
+# Sensitive local test data. Do not publish credentials or session cookies.
+IPQuality/ref/cookies.txt
+
+# macOS Finder metadata.
+.DS_Store
